@@ -1,0 +1,15 @@
+h1{
+
+    color: blanchedalmond;
+}
+h1{
+    background-color: blue;;
+}
+a:hover{
+    color: chartreuse;
+    padding: 5px;
+    text-decoration: goldenrod ;
+}
+body{
+    text-align: center;
+}
